@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="poster-january.svg"
-   inkscape:export-filename="/media/winardiaris/DATA/2015.gnome.asia/poster/drawing.png"
+   inkscape:export-filename="/home/winardiaris/git/GnomeAsiaSummit2015/Artworks/Poster/poster-january.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -476,11 +476,11 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="637"
+     inkscape:window-height="421"
+     inkscape:window-x="553"
+     inkscape:window-y="-40"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -5485,14 +5485,14 @@ RP8DVltiWom52dsAAAAASUVORK5CYII=
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:black;fill-opacity:1;stroke:none;font-family:Sans"
-       x="264.2179"
+       x="187.1147"
        y="892.73468"
        id="text3163"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3165"
-         x="264.2179"
+         x="187.1147"
          y="892.73468"
-         style="font-size:24px;fill:white">indriguli@gmail.com</tspan></text>
+         style="font-size:24px;fill:white">gnome-asia-id@googlegroups.com</tspan></text>
   </g>
 </svg>
