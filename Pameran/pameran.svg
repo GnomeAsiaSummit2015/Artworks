@@ -505,11 +505,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="338.61535"
-     inkscape:cy="232.29872"
+     inkscape:zoom="0.5"
+     inkscape:cx="286.11535"
+     inkscape:cy="565.36544"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="713"
@@ -565,7 +565,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1033,7 +1033,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="2"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#efebe9;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4763"
@@ -1092,7 +1092,7 @@
            width="676.70117"
            id="rect4829" /></flowRegion><flowPara
          style="font-size:16.25px;text-align:justify;text-anchor:start"
-         id="flowPara4831">Sebagai wadah interaksi langsung antara para pemilik dan pelaku bisnis dari berbagai kategori dengan mitra dan calon mitra baru serta sosialisasi usaha kepada masyarakat dunia IT indonesia.</flowPara></flowRoot>    <g
+         id="flowPara4831">Sebagai wadah interaksi langsung antara para pemilik dan pelaku bisnis dari berbagai kategori dengan mitra dan calon mitra baru serta sosialisasi usaha kepada masyarakat dunia IT Indonesia.</flowPara></flowRoot>    <g
        id="g5056"
        transform="translate(7.0738707,-10.893602)">
       <path
@@ -2095,7 +2095,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="4 peta"
-     style="display:none">
+     style="display:inline">
     <rect
        style="display:inline;fill:#efebe9;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4763-6"
@@ -2560,8 +2560,8 @@
          x="565.52332"
          sodipodi:role="line">Kontak Kami</tspan></text>
     <g
-       transform="matrix(0.81041681,0,0,0.81041681,799.61516,189.20817)"
-       id="g6089">
+       transform="matrix(0.81041681,0,0,0.81041681,799.60492,189.21606)"
+       id="g5469">
       <g
          id="g6179">
         <path
@@ -6610,26 +6610,26 @@
          sodipodi:linespacing="125%"
          id="text8101"
          y="557.211"
-         x="-435.49203"
+         x="-423.5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
            y="557.211"
-           x="-435.49203"
+           x="-423.5"
            sodipodi:role="line"
-           id="tspan8105">11 booth</tspan></text>
+           id="tspan8105">8 booth</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-435.49203"
+         x="-441.49203"
          y="587.211"
          id="text8109"
          sodipodi:linespacing="125%"><tspan
            id="tspan8111"
            sodipodi:role="line"
-           x="-435.49203"
+           x="-441.49203"
            y="587.211"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:sans-serif">  8 booth</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:sans-serif"> 11 booth</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text8113"
