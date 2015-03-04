@@ -16,10 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="pameran_en.svg"
-   inkscape:export-filename="/home/kirito/Documents/GitHub/Artworks/Pameran/en/pameran_en1.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   sodipodi:docname="pameran_en_revisi-cho2-4.pdf">
   <defs
      id="defs4">
     <clipPath
@@ -508,11 +505,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="582.89735"
-     inkscape:cy="624.22694"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-58.898119"
+     inkscape:cy="445.80676"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1145"
@@ -576,7 +573,7 @@
      inkscape:label="1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4184"
@@ -823,7 +820,7 @@
          x="377.29956"
          y="75.47773"
          style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
-         id="tspan4185">Offer Proposals </tspan></text>
+         id="tspan4185">Proposals </tspan></text>
     <g
        id="layer4-4"
        inkscape:label="footer"
@@ -1071,23 +1068,7 @@
        height="124.01575"
        x="0"
        y="0.2105986" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot5103"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-333.86281,-78.747399)"><flowRegion
-         id="flowRegion5105"><rect
-           id="rect5107"
-           width="666.08228"
-           height="272.61874"
-           x="374.8873"
-           y="299.06708" /></flowRegion><flowPara
-         id="flowPara5115"
-         style="font-size:17px;text-align:justify;text-anchor:start">Exhibitions can be a valuable way of meeting many key prospects in a short space of time. Providing you choose the right show and plan carefully, you could lay the foundations for profitable growth in contacts and eventual sales.</flowPara><flowPara
-         style="font-size:17px;text-align:justify;text-anchor:start"
-         id="flowPara4220" /><flowPara
-         style="font-size:17px;text-align:justify;text-anchor:start"
-         id="flowPara4222" /></flowRoot>    <g
+    <g
        id="g5056"
        transform="translate(7.0738707,-10.893602)">
       <path
@@ -1360,7 +1341,7 @@
          y="90.509315"
          style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L">http://2015.gnome.asia</tspan></text>
     <flowRoot
-       transform="translate(-364.98781,249.41131)"
+       transform="translate(-364.98781,113.41131)"
        style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        id="flowRoot4825-9"
        xml:space="preserve"><flowRegion
@@ -1371,12 +1352,12 @@
            width="676.70117"
            id="rect4829-3" /></flowRegion><flowPara
          style="font-size:16.25px;text-align:justify;text-anchor:start"
-         id="flowPara4831-7">Name:   : GNOME.Asia Summit IT Expo</flowPara><flowPara
+         id="flowPara4831-7">Name     : GNOME.Asia Summit IT Expo</flowPara><flowPara
          style="font-size:16.25px;text-align:justify;text-anchor:start"
-         id="flowPara4053">Dat        : May, 8-9 2015</flowPara><flowPara
+         id="flowPara4053">Date       : May, 8-9 2015</flowPara><flowPara
          style="font-size:16.25px;text-align:justify;text-anchor:start"
-         id="flowPara4055">Location: Mail Hall Balairung Universitas Indonesia Depok</flowPara></flowRoot>    <flowRoot
-       transform="translate(-364.98781,389.61945)"
+         id="flowPara4055">Location : Main Hall Balairung Universitas Indonesia Depok</flowPara></flowRoot>    <flowRoot
+       transform="translate(-364.98781,253.61945)"
        style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        id="flowRoot4825-9-0"
        xml:space="preserve"><flowRegion
@@ -1387,8 +1368,8 @@
            width="676.70117"
            id="rect4829-3-7" /></flowRegion><flowPara
          style="font-size:16.25px;text-align:justify;text-anchor:start"
-         id="flowPara4103">University of Indonesia is one of the oldest and largest university in Indonesia, with 14 faculties and 2 programs and nearly 35,000 students. The Hall is the largest conference hall at the University of Indonesia, able to accommodate up to 6,000 students.</flowPara></flowRoot>    <flowRoot
-       transform="translate(-364.98781,539.44763)"
+         id="flowPara4103">University of Indonesia is one of the oldest and largest university in Indonesia with 14 faculties, 2 programs and nearly 35,000 students. The Main Hall which is the largest conference hall at the University of Indonesia, able to accommodate up to 6,000 students.</flowPara></flowRoot>    <flowRoot
+       transform="translate(-364.98781,403.44763)"
        style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        id="flowRoot4825-9-0-2"
        xml:space="preserve"><flowRegion
@@ -1401,7 +1382,7 @@
          style="font-size:16.25px;text-align:justify;text-anchor:start"
          id="flowPara4144">• Internet Providers </flowPara><flowPara
          style="font-size:16.25px;text-align:justify;text-anchor:start"
-         id="flowPara4142">• Telco Provier</flowPara><flowPara
+         id="flowPara4142">• Telco Providers</flowPara><flowPara
          style="font-size:16.25px;text-align:justify;text-anchor:start"
          id="flowPara4148">• ICT Vendor Providers</flowPara><flowPara
          style="font-size:16.25px;text-align:justify;text-anchor:start"
@@ -1412,7 +1393,7 @@
          id="flowPara4156">• Smartphone Branded Retailer</flowPara><flowPara
          style="font-size:16.25px;text-align:justify;text-anchor:start"
          id="flowPara4160" /></flowRoot>    <flowRoot
-       transform="translate(-33.952745,539.01153)"
+       transform="translate(-33.952745,403.01153)"
        style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        id="flowRoot4825-9-0-2-0"
        xml:space="preserve"><flowRegion
@@ -1425,7 +1406,7 @@
          style="font-size:16.25px;text-align:justify;text-anchor:start"
          id="flowPara4261">• IT/Game Community</flowPara><flowPara
          style="font-size:16.25px;text-align:justify;text-anchor:start"
-         id="flowPara5616">• Start up Company</flowPara><flowPara
+         id="flowPara5616">• Startup Company</flowPara><flowPara
          style="font-size:16.25px;text-align:justify;text-anchor:start"
          id="flowPara5618">• Education Institutions</flowPara><flowPara
          style="font-size:16.25px;text-align:justify;text-anchor:start"
@@ -1453,28 +1434,28 @@
          x="49.523323"
          y="171.30302"
          id="tspan4351-0-1"
-         style="font-size:22.5px;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L">Why Join Exhibition?</tspan></text>
+         style="font-size:22.5px;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L">Background</tspan></text>
     <rect
        style="fill:#aa4400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect6791"
        width="372.04724"
        height="40"
        x="0"
-       y="492.36224" />
+       y="356.36224" />
     <text
        xml:space="preserve"
        style="font-size:25px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="49.523323"
-       y="521.30304"
+       y="385.30304"
        id="text6793"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="49.523323"
-         y="521.30304"
+         y="385.30304"
          id="tspan6795"
-         style="font-size:22.5px;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L">Profil Exhibition</tspan></text>
+         style="font-size:22.5px;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L">Exhibition Profile</tspan></text>
     <rect
-       y="632.36224"
+       y="496.36224"
        x="0"
        height="40"
        width="372.04724"
@@ -1483,141 +1464,47 @@
     <text
        sodipodi:linespacing="125%"
        id="text6799"
-       y="661.30304"
+       y="525.30304"
        x="49.523323"
        style="font-size:25px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:22.5px;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
          id="tspan6801"
-         y="661.30304"
+         y="525.30304"
          x="49.523323"
-         sodipodi:role="line">Location Benefit</tspan></text>
+         sodipodi:role="line">Benefit of Location</tspan></text>
     <rect
        style="fill:#aa4400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect6803"
        width="372.04724"
        height="40"
        x="0"
-       y="782.36224" />
+       y="646.36224" />
     <text
        xml:space="preserve"
        style="font-size:25px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="49.523323"
-       y="811.30304"
+       y="675.30304"
        id="text6805"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="49.523323"
-         y="811.30304"
+         y="675.30304"
          id="tspan6807"
          style="font-size:22.5px;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L">Exhibitor Profile</tspan></text>
     <flowRoot
-       transform="translate(-333.86281,13.176484)"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       id="flowRoot4268"
-       xml:space="preserve"><flowRegion
-         id="flowRegion4270"><rect
-           y="299.06708"
-           x="374.8873"
-           height="27.252657"
-           width="533.85333"
-           id="rect4272" /></flowRegion><flowPara
-         style="font-size:17px;text-align:justify;text-anchor:start"
-         id="flowPara4291">Apart from making contacts there are other valuable benefits:</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot4307"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-312.56499,40.753643)"><flowRegion
-         id="flowRegion4309"><rect
-           id="rect4311"
-           width="531.02484"
-           height="29.37396"
+       id="flowRoot5103"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(-333.86281,-100.66771)"><flowRegion
+         id="flowRegion5105"><rect
+           id="rect5107"
+           width="676.6889"
+           height="206.15073"
            x="374.8873"
            y="299.06708" /></flowRegion><flowPara
-         style="font-size:17px;text-align:justify;text-anchor:start"
-         id="flowPara4315">It raises your prestige and image to be seen at major venues.</flowPara><flowPara
-         style="font-size:17px;text-align:justify;text-anchor:start"
-         id="flowPara4317" /><flowPara
-         style="font-size:17px;text-align:justify;text-anchor:start"
-         id="flowPara4319" /><flowPara
-         style="font-size:17px;text-align:justify;text-anchor:start"
-         id="flowPara4321" /></flowRoot>    <flowRoot
-       transform="translate(-312.01714,65.725812)"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       id="flowRoot4325"
-       xml:space="preserve"><flowRegion
-         id="flowRegion4327"><rect
-           y="299.06708"
-           x="374.8873"
-           height="25.131315"
-           width="562.13751"
-           id="rect4329" /></flowRegion><flowPara
-         id="flowPara4337"
-         style="font-size:17px;text-align:justify;text-anchor:start">Shows are a good place to get instant feedback on new products.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4348"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-310.86333,90.69798)"><flowRegion
-         id="flowRegion4350"><rect
-           id="rect4352"
-           width="435.5654"
-           height="40.687668"
-           x="374.8873"
-           y="299.06708" /></flowRegion><flowPara
-         style="font-size:17px;text-align:justify;text-anchor:start"
-         id="flowPara4354">Your staff can help man the stand and also give them a chance to check out your competition.</flowPara></flowRoot>    <flowRoot
-       transform="translate(-310.86333,136.92015)"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       id="flowRoot4356"
-       xml:space="preserve"><flowRegion
-         id="flowRegion4358"><rect
-           y="299.06708"
-           x="374.8873"
-           height="44.930325"
-           width="449.00043"
-           id="rect4360" /></flowRegion><flowPara
-         id="flowPara4362"
-         style="font-size:17px;text-align:justify;text-anchor:start">You may have the opportunity to meet foreign buyers and to look for agents here and abroad.</flowPara></flowRoot>    <path
-       sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:1"
-       id="path4364"
-       sodipodi:cx="-54.447224"
-       sodipodi:cy="188.63126"
-       sodipodi:rx="4.9497476"
-       sodipodi:ry="5.3033009"
-       d="m -49.497476,188.63126 a 4.9497476,5.3033009 0 1 1 -9.899495,0 4.9497476,5.3033009 0 1 1 9.899495,0 z"
-       transform="translate(106.54089,166.17158)" />
-    <path
-       transform="translate(106.54089,188.44544)"
-       d="m -49.497476,188.63126 a 4.9497476,5.3033009 0 1 1 -9.899495,0 4.9497476,5.3033009 0 1 1 9.899495,0 z"
-       sodipodi:ry="5.3033009"
-       sodipodi:rx="4.9497476"
-       sodipodi:cy="188.63126"
-       sodipodi:cx="-54.447224"
-       id="path4366"
-       style="fill:#000000;fill-opacity:1"
-       sodipodi:type="arc" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:1"
-       id="path4368"
-       sodipodi:cx="-54.447224"
-       sodipodi:cy="188.63126"
-       sodipodi:rx="4.9497476"
-       sodipodi:ry="5.3033009"
-       d="m -49.497476,188.63126 a 4.9497476,5.3033009 0 1 1 -9.899495,0 4.9497476,5.3033009 0 1 1 9.899495,0 z"
-       transform="translate(106.54089,213.90128)" />
-    <path
-       transform="translate(106.54089,257.7419)"
-       d="m -49.497476,188.63126 a 4.9497476,5.3033009 0 1 1 -9.899495,0 4.9497476,5.3033009 0 1 1 9.899495,0 z"
-       sodipodi:ry="5.3033009"
-       sodipodi:rx="4.9497476"
-       sodipodi:cy="188.63126"
-       sodipodi:cx="-54.447224"
-       id="path4370"
-       style="fill:#000000;fill-opacity:1"
-       sodipodi:type="arc" />
-  </g>
+         style="font-size:16.25px;text-align:justify;text-anchor:start"
+         id="flowPara5373">Exhibition is one of the effective ways to promote a company with the purpose of branding the company and increase profits. The impact can be felt directly by the customer not only with reading as in the mass media, but also to hear on the radio and see on television. In addition, the impact of the exhibition can also be directly perceived because the effect recognition and recall. The effect is much better because of the chance of a two-way interaction with customers/prospective business partners. Even the exhibition allows the direct sales at that time.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
@@ -1953,15 +1840,13 @@
            y="299.06708"
            style="text-align:start;text-anchor:start" /></flowRegion><flowPara
          style="font-size:16.25px;text-align:start;text-anchor:start"
-         id="flowPara4396">GNOME.Asia Summit 2015 is an International summit, which will be attended by many national</flowPara><flowPara
-         style="font-size:16.25px;text-align:start;text-anchor:start"
-         id="flowPara4495">and in Asia such as:</flowPara><flowPara
+         id="flowPara4495">GNOME.Asia Summit 2015 is an International summit, which will be attended by local and international audiences such as:</flowPara><flowPara
          style="font-size:16.25px;text-align:start;text-anchor:start"
          id="flowPara4497">• Government</flowPara><flowPara
          style="font-size:16.25px;text-align:start;text-anchor:start"
          id="flowPara4499">• Investors</flowPara><flowPara
          style="font-size:16.25px;text-align:start;text-anchor:start"
-         id="flowPara4501">• Student, </flowPara><flowPara
+         id="flowPara4501">• Students </flowPara><flowPara
          style="font-size:16.25px;text-align:start;text-anchor:start"
          id="flowPara4503">• IT Workers</flowPara><flowPara
          style="font-size:16.25px;text-align:start;text-anchor:start"
@@ -2007,15 +1892,15 @@
          style="font-size:16.25px;text-align:start;text-anchor:start"
          id="flowPara4518-2">• Local Television Stations</flowPara><flowPara
          style="font-size:16.25px;text-align:start;text-anchor:start"
-         id="flowPara4558">• Local radio stations,</flowPara><flowPara
+         id="flowPara4558">• Local Radio Stations</flowPara><flowPara
          style="font-size:16.25px;text-align:start;text-anchor:start"
          id="flowPara4560">• National and Local Print Media</flowPara><flowPara
          style="font-size:16.25px;text-align:start;text-anchor:start"
          id="flowPara4562">• Electronic Media</flowPara><flowPara
          style="font-size:16.25px;text-align:start;text-anchor:start"
-         id="flowPara4564">• Social media (website, Facebook, Twitter)</flowPara><flowPara
+         id="flowPara4564">• Social Media (website, Facebook, Twitter)</flowPara><flowPara
          style="font-size:16.25px;text-align:start;text-anchor:start"
-         id="flowPara4566">• Promotion Print Media (Billboard, Banner, Poster / Leaflet)</flowPara></flowRoot>    <image
+         id="flowPara4566">• Promotion Print Media (Billboard, Banner, Poster/Leaflet)</flowPara></flowRoot>    <image
        y="176.36223"
        x="386"
        id="image4655"
@@ -2043,7 +1928,7 @@
          style="font-size:16.25px;text-align:start;text-anchor:start"
          id="flowPara4592">• Print Label Company</flowPara><flowPara
          style="font-size:16.25px;text-align:start;text-anchor:start"
-         id="flowPara4594">• Free Shipping Care Goods</flowPara></flowRoot>    <flowRoot
+         id="flowPara4594">• Free of Charge Care Goods</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5103-3-0-8-5"
        style="font-size:24px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -2060,7 +1945,7 @@
          style="font-size:16.25px;text-align:start;text-anchor:start"
          id="flowPara4609">• Terminal 2A, Carpet</flowPara><flowPara
          style="font-size:16.25px;text-align:start;text-anchor:start"
-         id="flowPara4611">• Free Shipping Care Goods</flowPara></flowRoot>    <flowRoot
+         id="flowPara4611">• Free of Charge Care Goods</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4133"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2108,7 +1993,7 @@
          id="tspan8038"
          y="551.30304"
          x="49.523323"
-         sodipodi:role="line">Inovatif Stage</tspan></text>
+         sodipodi:role="line">Innovative Stage</tspan></text>
     <rect
        style="fill:#aa4400;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect8040"
@@ -2171,7 +2056,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="4 peta"
-     style="display:none">
+     style="display:inline">
     <rect
        style="fill:#efebe9;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4763-6"
@@ -2490,7 +2375,7 @@
          id="tspan5071-1"
          x="371.00534"
          y="161.23022"
-         style="font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#aa4400;fill-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">Exhibition Stand Plan</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#aa4400;fill-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">Exhibition Floor Plan</tspan><tspan
          sodipodi:role="line"
          x="371.00534"
          y="191.23022"
@@ -2627,13 +2512,13 @@
        sodipodi:linespacing="125%"
        id="text9267"
        y="791.30304"
-       x="565.52332"
+       x="633.52332"
        style="font-size:25px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:22.5px;fill:#ffffff;fill-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
          id="tspan9269"
          y="791.30304"
-         x="565.52332"
+         x="633.52332"
          sodipodi:role="line">Contact</tspan></text>
     <g
        id="g5330"
