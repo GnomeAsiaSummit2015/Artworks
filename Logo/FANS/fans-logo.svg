@@ -13,13 +13,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg4015"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    width="400"
    height="150"
    sodipodi:docname="LOGO Baru Fans4.svg"
-   inkscape:export-filename="/home/iwan/Documents/BlankOn Projek/LOGO Baru Fans3.png"
-   inkscape:export-xdpi="70"
-   inkscape:export-ydpi="70">
+   inkscape:export-filename="/home/winardiaris/git/GnomeAsiaSummit2015/Artworks/Logo/FANS/fans-logo-600px.png"
+   inkscape:export-xdpi="135"
+   inkscape:export-ydpi="135">
   <metadata
      id="metadata4021">
     <rdf:RDF>
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -396,14 +396,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="711"
+     inkscape:window-height="716"
      id="namedview4017"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="49.033304"
-     inkscape:cy="-38.908783"
+     inkscape:cx="244.65964"
+     inkscape:cy="15.395077"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4015"
      units="px"
