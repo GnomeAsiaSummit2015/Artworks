@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="goodie-bag.svg"
-   inkscape:export-filename="/home/cho2/gnome-asia/Artworks/Goodie-Bag/goodie-bag-bw.png"
+   inkscape:export-filename="/home/winardiaris/git/GnomeAsiaSummit2015/Artworks/Goodie-Bag/goodie-bag.png"
    inkscape:export-xdpi="90.000671"
    inkscape:export-ydpi="90.000671">
   <sodipodi:namedview
@@ -33,9 +33,9 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="716"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      units="cm"
      showguides="true"
@@ -154,7 +154,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
