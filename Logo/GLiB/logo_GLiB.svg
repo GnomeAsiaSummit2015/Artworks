@@ -14,10 +14,10 @@
    id="svg3143"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="logo_GLiB1.svg"
-   inkscape:export-filename="/media/winardiaris/DATA/GLiB/logo/logo_GLiB1.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   sodipodi:docname="logo_GLiB.svg"
+   inkscape:export-filename="/home/winardiaris/git/GnomeAsiaSummit2015/Artworks/Logo/GLiB/logo_GLiB-600px.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
   <defs
      id="defs3145" />
   <sodipodi:namedview
@@ -29,14 +29,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
      inkscape:cx="158.98187"
-     inkscape:cy="62.99562"
+     inkscape:cy="83.198671"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="716"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="26"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3148">
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
