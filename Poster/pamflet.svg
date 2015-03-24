@@ -21,15 +21,6 @@
    inkscape:export-ydpi="90">
   <defs
      id="defs4444">
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter6195">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.7539104"
-         id="feGaussianBlur6197" />
-    </filter>
     <linearGradient
        id="linearGradient4148">
       <stop
@@ -1260,19 +1251,6 @@
          offset="1"
          style="stop-color:#d03907;stop-opacity:1;" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter7006"
-       x="-0.04243502"
-       width="1.08487"
-       y="-0.1109839"
-       height="1.2219678"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="6.9364936"
-         id="feGaussianBlur7008" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4148-3"
@@ -1391,9 +1369,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="253.49335"
-     inkscape:cy="195.4069"
+     inkscape:zoom="1.4"
+     inkscape:cx="345.9104"
+     inkscape:cy="355.01235"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1413,7 +1391,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1945,35 +1923,31 @@
        id="path7350"
        style="fill:white;fill-opacity:1;stroke:none"
        sodipodi:type="arc" />
-    <g
-       id="g7821"
-       transform="translate(0,3.499727e-5)">
-      <path
-         style="fill:#803300;fill-opacity:1;stroke:none"
-         d="m 411.05459,693.30047 302.85714,0 0,53.83755 -338.57143,0 z"
-         id="path7385"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="rect7376"
-         d="m 429.23734,693.30047 314.85714,0 0,53.83755 -350.57143,0 z"
-         style="fill:black;fill-opacity:1;stroke:none" />
-      <text
-         transform="matrix(0.9999871,0.00507915,-0.00507915,0.9999871,0,0)"
-         sodipodi:linespacing="125%"
-         id="text7352"
-         y="734.49268"
-         x="440.81766"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-         xml:space="preserve"><tspan
-           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff2a2a;font-family:BigNoodleTitling;-inkscape-font-specification:BigNoodleTitling"
-           y="734.49268"
-           x="440.81766"
-           id="tspan7354"
-           sodipodi:role="line">Registration NOW !!</tspan></text>
-    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path7385"
+       d="m 479.05459,693.3005 234.85714,0 0,53.83755 -270.57143,0 z"
+       style="fill:#803300;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:black;fill-opacity:1;stroke:none"
+       d="m 497.23734,693.3005 246.85714,0 0,53.83755 -282.57143,0 z"
+       id="rect7376"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+       x="505.31601"
+       y="734.16516"
+       id="text7352"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.9999871,0.00507915,-0.00507915,0.9999871,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan7354"
+         x="505.31601"
+         y="734.16516"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff2a2a;font-family:BigNoodleTitling;-inkscape-font-specification:BigNoodleTitling">Register NOW !!</tspan></text>
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
@@ -2050,67 +2024,59 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <g
-       id="g7808"
-       transform="translate(0,-5.6020855)">
-      <path
-         style="fill:#803300;fill-opacity:1;stroke:none"
-         d="m 355.05459,813.03847 358.85714,0 0,53.83755 -394.57143,0 z"
-         id="path7403"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path7405"
-         d="m 373.23734,813.03847 370.85714,0 0,53.83755 -406.57143,0 z"
-         style="fill:black;fill-opacity:1;stroke:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text7378"
-         y="798.10992"
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path7403"
+       d="m 371.05459,807.43638 342.85714,0 0,53.83755 -378.57143,0 z"
+       style="fill:#803300;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:black;fill-opacity:1;stroke:none"
+       d="m 389.23734,807.43638 354.85714,0 0,53.83755 -390.57143,0 z"
+       id="path7405"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fc0;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+       x="723.24426"
+       y="792.50781"
+       id="text7378"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7380"
          x="723.24426"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fc0;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-         xml:space="preserve"><tspan
-           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#fc0;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-           y="798.10992"
-           x="723.24426"
-           id="tspan7380"
-           sodipodi:role="line" /><tspan
-           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#fc0;font-family:BigNoodleTitling;-inkscape-font-specification:BigNoodleTitling"
-           id="tspan7382"
-           y="857.18921"
-           x="723.24426"
-           sodipodi:role="line">Professionals 200K IDR</tspan></text>
-    </g>
-    <g
-       id="g7815"
-       transform="translate(0,-2.8010229)">
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path7393"
-         d="m 439.05459,753.16946 274.85714,0 0,53.83755 -310.57143,0 z"
-         style="fill:#803300;fill-opacity:1;stroke:none" />
-      <path
-         style="fill:black;fill-opacity:1;stroke:none"
-         d="m 457.23734,753.16946 286.85714,0 0,53.83755 -322.57143,0 z"
-         id="path7395"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text7397"
-         y="797.32025"
-         x="461.40048"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fc0;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-         xml:space="preserve"><tspan
-           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fc0;font-family:BigNoodleTitling;-inkscape-font-specification:BigNoodleTitling"
-           y="797.32025"
-           x="461.40048"
-           id="tspan7399"
-           sodipodi:role="line">Students 100K IDR</tspan></text>
-    </g>
+         y="792.50781"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#fc0;font-family:Comfortaa;-inkscape-font-specification:Comfortaa" /><tspan
+         sodipodi:role="line"
+         x="723.24426"
+         y="851.5871"
+         id="tspan7382"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#fc0;font-family:BigNoodleTitling;-inkscape-font-specification:BigNoodleTitling">Professional 200K IDR</tspan></text>
+    <path
+       style="fill:#803300;fill-opacity:1;stroke:none"
+       d="m 461.05459,750.36844 252.85714,0 0,53.83755 -288.57143,0 z"
+       id="path7393"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path7395"
+       d="m 479.23734,750.36844 264.85714,0 0,53.83755 -300.57143,0 z"
+       style="fill:black;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fc0;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+       x="478.65051"
+       y="794.51923"
+       id="text7397"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7399"
+         x="478.65051"
+         y="794.51923"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fc0;font-family:BigNoodleTitling;-inkscape-font-specification:BigNoodleTitling">Student 100K IDR</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;fill:black;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
