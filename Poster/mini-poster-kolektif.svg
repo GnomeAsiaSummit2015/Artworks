@@ -135,7 +135,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -339,7 +339,7 @@
          id="tspan3163"
          x="495.27484"
          y="620.50714"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:white;font-family:Sans;-inkscape-font-specification:Sans">Yuk daftar kan segera</tspan><tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:white;font-family:Sans;-inkscape-font-specification:Sans">Yuk daftarkan segera</tspan><tspan
          sodipodi:role="line"
          x="501.83734"
          y="650.50714"
@@ -360,7 +360,7 @@
          sodipodi:role="line"
          id="tspan3167"
          x="36.365528"
-         y="756.38745">dengan sarat:</tspan><tspan
+         y="756.38745">dengan syarat:</tspan><tspan
          sodipodi:role="line"
          x="36.365528"
          y="776.38745"
