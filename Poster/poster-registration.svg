@@ -14,9 +14,9 @@
    height="1052.3622047"
    id="svg3235"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="poster-registration.svg"
-   inkscape:export-filename="/home/winardiaris/git/GnomeAsiaSummit2015/Artworks/Poster/poster-registration-300dpi.png"
+   inkscape:export-filename="/home/cho2/gnome-asia/Artworks/Poster/poster-registration-300dpi.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <sodipodi:namedview
@@ -27,16 +27,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="244.33276"
-     inkscape:cy="685.7872"
+     inkscape:cx="338.91496"
+     inkscape:cy="143.75911"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-page="false"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="713"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="false"
@@ -1021,7 +1021,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1243,7 +1243,7 @@
          style="font-size:20px"
          id="flowPara5684" /></flowRoot>    <flowRoot
        transform="translate(-60.960394,10.436396)"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:black;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot5688"
        xml:space="preserve"><flowRegion
          id="flowRegion5690"><rect
@@ -1256,20 +1256,20 @@
          style="font-size:20px">Please make the payment to the following detail:</flowPara><flowPara
          style="font-size:20px"
          id="flowPara5696">Account holder's name: <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#c83737;fill-opacity:1"
-   id="flowSpan17030">Indri Widyanti</flowSpan></flowPara><flowPara
+   style="font-weight:bold;-inkscape-font-specification:'Sans Bold';fill:#c83737;fill-opacity:1"
+   id="flowSpan17030">Dita Miati Saputri</flowSpan></flowPara><flowPara
          id="flowPara5749"
          style="font-size:20px">Bank: <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#c83737;fill-opacity:1"
+   style="font-weight:bold;-inkscape-font-specification:'Sans Bold';fill:#c83737;fill-opacity:1"
    id="flowSpan17042">Mandiri</flowSpan> (SWIFT Code: BMRIIDJA)</flowPara><flowPara
          id="flowPara5751"
          style="font-size:20px">Account number: <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#c83737;fill-opacity:1"
-   id="flowSpan17032">133-00-1275457-8</flowSpan></flowPara><flowPara
+   style="font-weight:bold;-inkscape-font-specification:'Sans Bold';fill:#c83737;fill-opacity:1"
+   id="flowSpan17032">120-00-1011817-7</flowSpan></flowPara><flowPara
          id="flowPara5753"
          style="font-size:16px" /><flowPara
          id="flowPara5755"
-         style="font-size:16px">Please send the confirmation email along with the ticket and transfer receipt in the attachment to indriguli@gmail.com.</flowPara><flowPara
+         style="font-size:16px">Please send the confirmation email along with the ticket and transfer receipt in the attachment to dita.m.saputri@gmail.com.</flowPara><flowPara
          style="font-size:16px"
          id="flowPara5698" /><flowPara
          style="font-size:16px"
