@@ -22,5 +22,5 @@
   cd "pdf/"
   rm *.svg
   pdfunite *.pdf all.pdf
-  zip -r all.zip all.pdf
-  #rm *.pdf
+  tar cvf all.pdf.tar all.pdf ; lzma all.pdf.tar
+  rm *.pdf
