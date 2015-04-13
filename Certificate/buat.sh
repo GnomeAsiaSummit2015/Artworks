@@ -11,7 +11,7 @@
 			cp "master.svg" "pdf/${array[0]}.svg"
 			replace "&lt;&lt;NAME&gt;&gt;" "${array[1]} ${array[2]}" -- "pdf/${array[0]}.svg"
 			replace "&lt;&lt;KODE&gt;&gt;" "${array[0]}" -- "pdf/${array[0]}.svg"
-			
+						
 			inkscape --export-pdf="pdf/${array[0]}.pdf" "pdf/${array[0]}.svg"
 
 			#echo "ID: ${array[0]}"
@@ -22,3 +22,5 @@
   cd "pdf/"
   rm *.svg
   pdfunite *.pdf all.pdf
+  zip -r all.zip all.pdf
+  #rm *.pdf
