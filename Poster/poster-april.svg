@@ -17,9 +17,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="poster-april.svg"
-   inkscape:export-filename="/home/cho2/gnome-asia/Artworks/Poster/poster-april_A3_print.png"
-   inkscape:export-xdpi="89.988571"
-   inkscape:export-ydpi="89.988571">
+   inkscape:export-filename="/home/cho2/gnome-asia/Artworks/Poster/poster-april_A3_print_300dpi.png"
+   inkscape:export-xdpi="300.02237"
+   inkscape:export-ydpi="300.02237">
   <defs
      id="defs4">
     <linearGradient
@@ -61,9 +61,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="971.68402"
-     inkscape:cy="1431.0516"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="761.3089"
+     inkscape:cy="1233.5653"
      inkscape:document-units="cm"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -4089,21 +4089,21 @@
        width="1052.3622"
        height="468.67245"
        x="0"
-       y="-631.6944" />
+       y="-594.26355" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff4444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4938-1"
        width="1052.3622"
        height="476.01456"
        x="0"
-       y="124.01781" />
+       y="161.44867" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4882-9"
        width="1052.3622"
        height="306.03571"
        x="0"
-       y="-173.67848" />
+       y="-136.24762" />
     <g
        style="display:inline;fill:#ecf0f1"
        transform="matrix(1.0860192,0,0,1.0751432,1491.5396,-849.89711)"
@@ -4114,11 +4114,11 @@
        width="1052.3622"
        height="115.30035"
        x="0"
-       y="591.36328" />
+       y="628.79413" />
     <g
        style="display:inline"
        id="g3243-6"
-       transform="matrix(1.0684794,0,0,1.0577791,263.98402,-744.09448)">
+       transform="matrix(1.4081762,0,0,1.394074,20.232404,-744.09448)">
       <image
          y="0"
          x="658.0022"
@@ -4227,7 +4227,7 @@
        style="display:inline"
        inkscape:label="brown"
        id="layer4-6"
-       transform="matrix(0.13332127,0,0,0.13198612,0.99281909,-753.53675)">
+       transform="matrix(0.19571305,0,0,0.19375307,-2.1267697,-761.25762)">
       <g
          id="g3184-8">
         <rect
@@ -4516,7 +4516,7 @@
        id="g5123-0-8" />
     <g
        id="g6877"
-       transform="translate(106,0)">
+       transform="translate(106,37.430859)">
       <ellipse
          ry="98.16468"
          rx="99.1577"
