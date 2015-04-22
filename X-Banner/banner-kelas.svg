@@ -176,11 +176,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="1190.071"
-     inkscape:cy="4405.8883"
+     inkscape:zoom="0.35"
+     inkscape:cx="1350.9767"
+     inkscape:cy="1283.8042"
      inkscape:document-units="m"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer6"
      showgrid="false"
      units="m"
      inkscape:window-width="1366"
@@ -254,7 +254,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Room #4"
-     style="display:none">
+     style="display:inline">
     <rect
        style="display:inline;fill:#e65100;fill-opacity:1;stroke:none"
        id="rect3500-7"
@@ -478,12 +478,12 @@
          id="tspan4418-0"
          y="4845.7881"
          x="2080"
-         sodipodi:role="line">Ezilla Project and FOSS Education in Taiwan</tspan><tspan
+         sodipodi:role="line">Signature verification of hibernate snapshot</tspan><tspan
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:Lato;-inkscape-font-specification:'Lato Semi-Light';text-align:end;text-anchor:end;fill:#ffffff"
          y="4945.7881"
          x="2080"
          sodipodi:role="line"
-         id="tspan4089">Max Huang</tspan></text>
+         id="tspan4089">Joey Lee</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -972,7 +972,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,4616.9412)"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#b71c1c;fill-opacity:1;stroke:none"
        id="rect3500"
