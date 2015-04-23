@@ -505,9 +505,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="212.31775"
-     inkscape:cy="611.71175"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="178.54197"
+     inkscape:cy="291.54343"
      inkscape:document-units="cm"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -2420,68 +2420,44 @@
          y="191.23022"
          style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Book';text-align:center;text-anchor:middle;fill:#aa4400;fill-opacity:1"
          id="tspan13025">Balairung Universitas Indonesia</tspan></text>
-    <g
-       transform="translate(-42.275857,574.79357)"
-       style="display:inline"
-       id="g13180">
-      <rect
-         y="277.08423"
-         x="109.57425"
-         height="29.319515"
-         width="43.979271"
-         id="rect8095-7"
-         style="fill:#27ae60;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         style="fill:#f39c12;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect8097-7"
-         width="43.979271"
-         height="29.319515"
-         x="109.57425"
-         y="321.06348" />
-      <rect
-         y="365.04272"
-         x="109.57425"
-         height="29.319515"
-         width="43.979271"
-         id="rect8099-8"
-         style="fill:#c0392b;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.64939117px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="167.04361"
-         y="305.95697"
-         id="text8101-5"
-         sodipodi:linespacing="125%"><tspan
-           id="tspan8105-9"
-           sodipodi:role="line"
-           x="167.04361"
-           y="305.95697"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:sans-serif;-inkscape-font-specification:sans-serif">IDR 5.000.000</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text8109-2"
-         y="349.93622"
-         x="167.04361"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.64939117px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-           y="349.93622"
-           x="167.04361"
-           sodipodi:role="line"
-           id="tspan8111-3">IDR 3.000.000</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.64939117px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="167.04361"
-         y="393.91553"
-         id="text8113-9"
-         sodipodi:linespacing="125%"><tspan
-           id="tspan8115-8"
-           sodipodi:role="line"
-           x="167.04361"
-           y="393.91553"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:sans-serif;-inkscape-font-specification:sans-serif">IDR 2.000.000</tspan></text>
-    </g>
+    <rect
+       style="fill:#27ae60;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect8095-7"
+       width="43.979271"
+       height="29.319515"
+       x="67.298393"
+       y="851.87781" />
+    <rect
+       style="fill:#c0392b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect8099-8"
+       width="43.979271"
+       height="29.319515"
+       x="67.298393"
+       y="889.8363" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text8101-5"
+       y="880.75055"
+       x="124.76775"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.64939117px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         y="880.75055"
+         x="124.76775"
+         sodipodi:role="line"
+         id="tspan8105-9">IDR 5.000.000</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8113-9"
+       y="918.70911"
+       x="124.76775"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.64939117px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         y="918.70911"
+         x="124.76775"
+         sodipodi:role="line"
+         id="tspan8115-8">IDR 2.000.000</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text16139-7"
