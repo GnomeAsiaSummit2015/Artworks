@@ -509,8 +509,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.43744445"
-     inkscape:cx="1216.5653"
-     inkscape:cy="720.64687"
+     inkscape:cx="1352.798"
+     inkscape:cy="253.40485"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -539,7 +539,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1081,18 +1081,18 @@
          transform="matrix(0.71897203,0.05634862,-0.05634862,0.71897203,1287.5782,-141.59877)" />
       <text
          transform="matrix(0.99694284,0.07813428,-0.07813428,0.99694284,0,0)"
-         sodipodi:linespacing="89.999998%"
+         sodipodi:linespacing="100%"
          id="text7453-4"
          y="-88.067154"
          x="1825.4244"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.55568504px;line-height:89.99999762%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#ffffff"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#ffffff;font-size:27.60336736px"
            y="-88.067154"
            x="1825.4244"
            id="tspan7455-5"
            sodipodi:role="line">The Architecture of BlankOn Linux</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#ffffff"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#ffffff;font-size:27.60336736px"
            id="tspan7457-8"
            y="-62.367039"
            x="1825.4244"
