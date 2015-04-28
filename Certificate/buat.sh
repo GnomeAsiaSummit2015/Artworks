@@ -8,7 +8,7 @@
 	#echo  "+$data"
 		IFS=',' read -a array <<< "$data"
 		
-			cp "master.svg" "pdf/${array[0]}.svg"
+			cp "master2.svg" "pdf/${array[0]}.svg"
 			replace "&lt;&lt;NAME&gt;&gt;" "${array[1]} ${array[2]}" -- "pdf/${array[0]}.svg"
 			replace "&lt;&lt;KODE&gt;&gt;" "${array[0]}" -- "pdf/${array[0]}.svg"
 						
