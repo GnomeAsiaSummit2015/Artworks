@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="backdrop_utama.svg"
-   inkscape:export-filename="/home/cho2/gnome-asia/Artworks/Backdrop/backdrop_utama_300dpi.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-filename="/home/cho2/gnome-asia/Artworks/Backdrop/backdrop_utama.png"
+   inkscape:export-xdpi="90.000671"
+   inkscape:export-ydpi="90.000671">
   <defs
      id="defs4">
     <clipPath
@@ -1654,8 +1654,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
-     inkscape:cx="2167.9846"
-     inkscape:cy="246.56184"
+     inkscape:cx="2590.0381"
+     inkscape:cy="1200.0133"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1724,6 +1724,12 @@
        id="guide4737"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="4628,1594.4882"
+       orientation="0,1"
+       id="guide4730"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -1763,7 +1769,7 @@
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <g
        id="g3243"
-       transform="matrix(4.2619541,0,0,4.2619541,1016.6108,-1073.6352)">
+       transform="matrix(5.0000019,0,0,5.0000019,508.1936,-1073.6352)">
       <image
          y="0"
          x="658.0022"
