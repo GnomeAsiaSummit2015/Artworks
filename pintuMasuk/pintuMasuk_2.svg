@@ -15,7 +15,10 @@
    id="svg4831"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="pintuMasuk_2.svg">
+   sodipodi:docname="pintuMasuk_2.svg"
+   inkscape:export-filename="/home/cho2/gnome-asia/Artworks/pintuMasuk/pintuMasuk_2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4833">
     <clipPath
@@ -49,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.04375"
-     inkscape:cx="833.53195"
-     inkscape:cy="2578.2637"
+     inkscape:zoom="0.021875"
+     inkscape:cx="780.09642"
+     inkscape:cy="6408.2511"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -87,6 +90,30 @@
        id="guide5434"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-531.49608,6011.4286"
+       orientation="1,0"
+       id="guide4909"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-3337.1429,-531.49606"
+       orientation="0,1"
+       id="guide4911"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-5508.5716,9035.433"
+       orientation="0,1"
+       id="guide4913"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="2125.9843,6720"
+       orientation="1,0"
+       id="guide4915"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata4836">
@@ -96,7 +123,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -105,6 +132,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,7451.5748)">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4917"
+       width="2657.4802"
+       height="9566.9287"
+       x="-531.49609"
+       y="-7983.0708" />
     <rect
        y="-7451.5752"
        x="0"
